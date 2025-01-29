@@ -1,4 +1,4 @@
-dota2 camera zoom patcher dota2pasta
+dota2 camera zoom patcher dota2pasta ver.1.0.2
 
 telegram: @dota2pasta_bot
 
