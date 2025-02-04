@@ -12,6 +12,6 @@ https://imgur.com/a/v8IBXPt
 
 2) переделал инжектор
 
-3) работает на 11 винде
+3) работает на 10 и 11 винде
 
 4) переделал на сигны CDOTAInput, CDOTA_BinaryObjectSystem, C_DOTA_ProjectileManager из-за них могут быть проблемы, надо проверять после обновы.
