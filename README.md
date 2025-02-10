@@ -2,10 +2,7 @@ dota2 camera zoom patcher dota2pasta ver.1.0.6 beta
 
 telegram: @dota2pasta_bot
 
-обновил 09.02.25: https://mega.nz/file/EHtDyLCR#_696YTLwto-hS1Sskug9KNwhaeCcg0jw4S3BG4rk-0Q
-1) начал переход с 1С Предприятие на ООП из-за этого возможны вылеты
-2) разрешение экрана берётся из винды
-3) добавил проверку на кд предметов и способностей
+обновил 11.02.25 добавил армлет и мин хп при котором активирует
 
 Функционал:
 1) отдаление камеры
@@ -16,11 +13,12 @@ telegram: @dota2pasta_bot
 
 !!!WITHOUT humanizer and bypass VAC!!!
 
+армлет: https://imgur.com/rWCF78N
+акс: https://imgur.com/a/v8IBXPt
 
-update 07.02.25: https://mega.nz/file/8LcmUbRR#ENvnIevQU2H2__g73BOR6ex32cPwim9QAZpjZ6fvbuw
+update 11.02.25: https://mega.nz/file/9edhRTiS#KPGRrN4ePPdI2NjD3AdZQq0NOWKc15eT7ThPPWGK9gU
 
 https://youtu.be/iIa62zmNjaw
 
-https://imgur.com/a/v8IBXPt
 
 
