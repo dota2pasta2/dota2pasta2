@@ -1,3 +1,5 @@
+update 11.02.25: https://mega.nz/file/9edhRTiS#KPGRrN4ePPdI2NjD3AdZQq0NOWKc15eT7ThPPWGK9gU
+
 dota2 camera zoom patcher dota2pasta ver.1.0.7
 
 telegram: @dota2pasta_bot
@@ -16,8 +18,6 @@ telegram: @dota2pasta_bot
 армлет: https://imgur.com/rWCF78N
 
 акс: https://imgur.com/a/v8IBXPt
-
-update 11.02.25: https://mega.nz/file/9edhRTiS#KPGRrN4ePPdI2NjD3AdZQq0NOWKc15eT7ThPPWGK9gU
 
 https://youtu.be/iIa62zmNjaw
 
