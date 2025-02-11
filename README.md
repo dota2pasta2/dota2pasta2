@@ -1,10 +1,23 @@
-update 11.02.25: https://mega.nz/file/9edhRTiS#KPGRrN4ePPdI2NjD3AdZQq0NOWKc15eT7ThPPWGK9gU
+update 12.02.25: https://mega.nz/file/JfsR0axY#aCfb3QPW3bKKRuK6kaleNQr-CYLe4dvZS3rpwMv9wAw
 
-dota2 camera zoom patcher dota2pasta ver.1.0.7
+dota2 camera zoom patcher dota2pasta ver.1.0.8
 
 telegram: @dota2pasta_bot
 
-обновил 11.02.25 добавил армлет и мин хп при котором активирует
+1) перенёс все заказы из директа
+2) заказы больше не создают параллельный поток с засыпанием
+3) добавил уворот от doom_bringer_doom ульт дума
+4) исправил вылет при инжекте вне игры
+
+список способностей от которых уворачиваешься:
+const char* dodgeAbilities[] = {
+"axe_berserkers_call",
+"legion_commander_duel",
+"beastmaster_primal_roar",
+"pudge_dismember",
+//"lion_voodoo",
+"doom_bringer_doom"
+};
 
 Функционал:
 1) отдаление камеры
