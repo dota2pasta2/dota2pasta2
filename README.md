@@ -1,13 +1,15 @@
-update 20.02.25: https://mega.nz/file/UHUQGaKS#J-bJME49PA4eycFOjXHtSkN-umn5znUfXBMpBf5Gl_0
+update 21.02.25: https://mega.nz/file/UG1SURhR#UYgy4RlK_D5O3AqWfHHojCxBOS7RgzM4_WR3PeZXHdU
 
-dota2 camera zoom patcher dota2pasta ver.1.0.11 BETA
+dota2 camera zoom patcher dota2pasta ver.1.1.0 BETA
 
 !!!WITHOUT humanizer and bypass VAC!!!
 
 telegram: @dota2pasta_bot
 
-добавил добивание крипов по зажатой кнопке N с включённой галкой "Последний удар" в разделе "Автоматика"
-добавил уворот от магнуса, шамана и тайда; антимаг теперь бешенный, сразу в патруль xD
+Новое:
+1) добивание крипов по зажатой кнопке N с включённой галкой "Последний удар" в разделе "Автоматика"
+2) раздел "Настройки" можно задать свои горячие клавиши
+3) уворот от магнуса, шамана и тайда; антимаг теперь бешенный, сразу в патруль xD
 
 !!!БЕЗ обхода античита и корректировки камеры!!!
 
