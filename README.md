@@ -1,6 +1,9 @@
-update 18.02.25: https://mega.nz/file/BWty2Bja#mjNO8RJTiHkb5hwaPbiLKaGYu2zcZv6GfLwPxjVQeCY
+update 19.02.25: https://mega.nz/file/9adxTIyT#i5WSl_3WMltZe5fgttpc_3ivZEvJ4L0TKvR3CZMwYZY
 
-dota2 camera zoom patcher dota2pasta ver.1.0.10
+добавил уворот от магнуса, шамана и тайда
+антимаг теперь бешенный, сразу в патруль xD
+
+dota2 camera zoom patcher dota2pasta ver.1.0.11 BETA
 
 telegram: @dota2pasta_bot
 
