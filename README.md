@@ -1,7 +1,6 @@
 update 19.02.25: https://mega.nz/file/9adxTIyT#i5WSl_3WMltZe5fgttpc_3ivZEvJ4L0TKvR3CZMwYZY
 
-добавил уворот от магнуса, шамана и тайда
-антимаг теперь бешенный, сразу в патруль xD
+добавил уворот от магнуса, шамана и тайда; антимаг теперь бешенный, сразу в патруль xD
 
 dota2 camera zoom patcher dota2pasta ver.1.0.11 BETA
 
