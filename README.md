@@ -1,4 +1,6 @@
-update 19.02.25: https://mega.nz/file/9adxTIyT#i5WSl_3WMltZe5fgttpc_3ivZEvJ4L0TKvR3CZMwYZY
+update 20.02.25: https://mega.nz/file/UHUQGaKS#J-bJME49PA4eycFOjXHtSkN-umn5znUfXBMpBf5Gl_0
+
+добавил добивание крипов по зажатой кнопке N с включённой галкой "Последний удар" в разделе "Автоматика"
 
 добавил уворот от магнуса, шамана и тайда; антимаг теперь бешенный, сразу в патруль xD
 
