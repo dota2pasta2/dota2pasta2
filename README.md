@@ -1,4 +1,4 @@
-update 24.02.25: https://mega.nz/file/IadlSJBK#cdheuizPbTP_pwC5wFBTzXfAczrmTO0Y99LlFIItPIA
+update 24.02.25: https://mega.nz/file/ce0VlArB#R5dzCk4ivkqxkFRR9XwkJWQNlN46EcwwCgjOhIWhJbw
 
 ОБНОВИЛ ПОД НОВЫЙ ПАТЧ
 dota2 camera zoom patcher dota2pasta ver.1.1.3 BETA
