@@ -1,7 +1,7 @@
-update 23.02.25: https://mega.nz/file/dP0wXYCJ#slaBK-6uTxfeSOyMEr6s-ubySGamQr4M8lquX26KXjA
+update 24.02.25: https://mega.nz/file/VDcCCYzb#q-0heLbDps5dL80y0hkwgPRdPoZtR-thMUeyyLhk17g
 
 ОБНОВИЛ ПОД НОВЫЙ ПАТЧ
-dota2 camera zoom patcher dota2pasta ver.1.1.2 BETA
+dota2 camera zoom patcher dota2pasta ver.1.1.3 BETA
 
 !!!WITHOUT humanizer and bypass VAC!!!
 
