@@ -1,4 +1,6 @@
-update 28.02.25: https://mega.nz/file/UOtxCSZb#L2y3IFenVsi3nLzB8KdPEMcUt4MGi3VkAwxzk-Ci4YU
+update 01.03.25: https://mega.nz/file/BGES1TbT#EWmSN4c4MAMXii_edXdigVpKQxTizGGSMvw40l8AMJk
+
+видео пример как создать свой сценарий: https://youtu.be/Y5Di6EUOpas
 
 ОБНОВИЛ ПОД НОВЫЙ ПАТЧ
 dota2 camera zoom patcher dota2pasta ver.1.1.4 BETA
