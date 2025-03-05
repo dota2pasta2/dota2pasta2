@@ -1,6 +1,6 @@
 update 05.03.25: https://mega.nz/file/8fEWALDD#Cb3Qo_HcSaisurpFfEKtCl2mqbZXTGIU_c97_otdyUE
 
-добаввил отображение окружностей
+добавил отображение окружностей
 
 видео пример как создать свой сценарий: https://youtu.be/Y5Di6EUOpas
 
