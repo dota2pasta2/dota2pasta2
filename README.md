@@ -1,10 +1,12 @@
-update 05.03.25: https://mega.nz/file/8fEWALDD#Cb3Qo_HcSaisurpFfEKtCl2mqbZXTGIU_c97_otdyUE
+update 11.03.25: https://mega.nz/file/cWkWSD4B#CKEgrehYQ5UfcfZ-rfKLSLIkYl8cxDFAD7nmdHd6EWg
 
-добавил отображение окружностей
+форум: https://yougame.biz/threads/342491/
+
+1) правильно отображаются иллюзии мипо, арка, венги, морфа (спастил из патчера dota2patcher Wolf49406 )
+2) дагон +2 лвл стал рабочим в комбо
+3) комбо для никса и тд
 
 видео пример как создать свой сценарий: https://youtu.be/Y5Di6EUOpas
-
-ОБНОВИЛ ПОД НОВЫЙ ПАТЧ
 dota2 camera zoom patcher dota2pasta ver.1.1.4 BETA
 
 !!!WITHOUT humanizer and bypass VAC!!!
