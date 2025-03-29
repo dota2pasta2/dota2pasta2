@@ -1,4 +1,7 @@
 update 28.03.25: https://mega.nz/file/xDMlyC7T#FnZEEh-uVvPAEGlzzoIWIISSAREdtg7sHtlCwws5-XU
+1) скрипт для мипо
+2) кд ульты врага
+3) индикатор активности первой способности сларка: синий = запущена, зеленый = в кд
 
 форум: https://yougame.biz/threads/342491/
 
