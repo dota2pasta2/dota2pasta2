@@ -1,4 +1,4 @@
-update 28.03.25: https://mega.nz/file/xDMlyC7T#FnZEEh-uVvPAEGlzzoIWIISSAREdtg7sHtlCwws5-XU
+update 27.05.25: https://mega.nz/file/patyiSJR#uA3eyCO0sSNUnLxUdjG9B03-XPub1wun16xzxy10pPE
 1) скрипт для мипо
 2) кд ульты врага
 3) индикатор активности первой способности сларка: синий = запущена, зеленый = в кд
