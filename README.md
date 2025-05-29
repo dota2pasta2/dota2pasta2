@@ -4,9 +4,9 @@ update 29.05.25: https://mega.nz/file/talkTTTZ#NR5FP39asNxRMd5NyZoZb1P_5Usj5p2w4
 
 форум: https://yougame.biz/threads/342491/
 
-!!!WITHOUT humanizer and bypass VAC!!!
-
 telegram: @dota2pasta_bot
+
+!!!WITHOUT humanizer and bypass VAC!!!
 
 !!!БЕЗ обхода античита и корректировки камеры!!!
 
