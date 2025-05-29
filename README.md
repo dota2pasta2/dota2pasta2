@@ -4,6 +4,12 @@ update 29.05.25: https://mega.nz/file/talkTTTZ#NR5FP39asNxRMd5NyZoZb1P_5Usj5p2w4
 
 форум: https://yougame.biz/threads/342491/
 
+!!!WITHOUT humanizer and bypass VAC!!!
+
+telegram: @dota2pasta_bot
+
+!!!БЕЗ обхода античита и корректировки камеры!!!
+
 Функционал:
 1) отдаление камеры
 2) вас видит враг
@@ -13,12 +19,6 @@ update 29.05.25: https://mega.nz/file/talkTTTZ#NR5FP39asNxRMd5NyZoZb1P_5Usj5p2w4
 
 видео пример как создать свой сценарий: https://youtu.be/Y5Di6EUOpas
 dota2 camera zoom patcher dota2pasta ver.1.1.4 BETA
-
-!!!WITHOUT humanizer and bypass VAC!!!
-
-telegram: @dota2pasta_bot
-
-!!!БЕЗ обхода античита и корректировки камеры!!!
 
 1) требуется директ икс 11
 
