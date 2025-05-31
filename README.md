@@ -1,6 +1,8 @@
-update 29.05.25: https://mega.nz/file/talkTTTZ#NR5FP39asNxRMd5NyZoZb1P_5Usj5p2w4lTnJtBmqag
+обновил 31.05.25: https://mega.nz/file/tLsUlboS#Xp_i383N2du_rIFCmGbROeLnc1mdEWnXnHTP1_bDndo
 
-Исправил вылет при выпадении джема из врага.
+Исправил вылеты:
+1) при выпадении джема из врага;
+2) при авто подборе руны, нажатие кнопки J;
 
 форум: https://yougame.biz/threads/342491/
 
