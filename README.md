@@ -1,4 +1,4 @@
-обновил 31.05.25: https://mega.nz/file/tLsUlboS#Xp_i383N2du_rIFCmGbROeLnc1mdEWnXnHTP1_bDndo
+обновил 07.06.25: https://mega.nz/file/9fUyDBKR#hVxgWNQ9riC6OWIpwAPpYx5iQtgN7Fd07eD-g-_P9JQ
 
 Исправил вылеты:
 1) при выпадении джема из врага;
