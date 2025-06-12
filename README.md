@@ -1,4 +1,4 @@
-обновил 08.06.25: https://mega.nz/file/lbFDgYQa#kWNRNcw0Co0d9W2MDYlM2GfnOCdkZSw8vm5kQdhDcb0
+обновил 12.06.25: https://mega.nz/file/ZKlWVIAI#wCEgLxzOu9OsUOPZSanYhtDprm2-jSBAAc2KHws2ZX0
 
 1) Вернул кнопку рисовать кольцо вокруг героя и радиус джема врага.
 2) Чит отправляет HWID на север чита, хочу узнать количество активных пользователей.
