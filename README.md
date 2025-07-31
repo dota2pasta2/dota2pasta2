@@ -1,3 +1,5 @@
+Проект закрыт, обновлений не будет.
+
 обновил 12.06.25: https://mega.nz/file/ZKlWVIAI#wCEgLxzOu9OsUOPZSanYhtDprm2-jSBAAc2KHws2ZX0
 
 1) Вернул кнопку рисовать кольцо вокруг героя и радиус джема врага.
