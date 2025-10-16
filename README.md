@@ -1,6 +1,17 @@
-Проект закрыт, обновлений не будет.
+Обновил 16.10.25: https://mega.nz/file/JGVh2QoQ#1vEhsb0X2KyJv8tuUYxAs0J5YFHKnH60EwkRJWIjff0
 
-обновил 12.06.25: https://mega.nz/file/ZKlWVIAI#wCEgLxzOu9OsUOPZSanYhtDprm2-jSBAAc2KHws2ZX0
+​ВБЕ только для героев:
+
+        if (strcmp(localHeroName, "npc_dota_hero_clinkz") == 0)
+            gVisuals.modificIndex = 863;
+        else if (strcmp(localHeroName, "npc_dota_hero_viper") == 0)
+            gVisuals.modificIndex = 672;
+        else if (strcmp(localHeroName, "npc_dota_hero_warlock") == 0)
+            gVisuals.modificIndex = 686;
+        else if (strcmp(localHeroName, "npc_dota_hero_witch_doctor") == 0)
+            gVisuals.modificIndex = 696;
+        else if (strcmp(localHeroName, "npc_dota_hero_crystal_maiden") == 0)
+            gVisuals.modificIndex = 86;
 
 1) Вернул кнопку рисовать кольцо вокруг героя и радиус джема врага.
 2) Чит отправляет HWID на север чита, хочу узнать количество активных пользователей.
