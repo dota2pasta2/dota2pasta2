@@ -1,4 +1,6 @@
-Обновил 16.10.25: https://mega.nz/file/JGVh2QoQ#1vEhsb0X2KyJv8tuUYxAs0J5YFHKnH60EwkRJWIjff0
+Обновил 16.10.25 ВАЖНО: запускать, когда дота запущена, но поиск игры ещё не начат.
+
+https://mega.nz/file/JGVh2QoQ#1vEhsb0X2KyJv8tuUYxAs0J5YFHKnH60EwkRJWIjff0
 
 ​ВБЕ только для героев:
 
