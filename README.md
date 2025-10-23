@@ -6,10 +6,7 @@ https://mega.nz/file/NOVREb6a#MUVjHo8S1ZRVVN-lh_cjikhdiQu6ndHwPVIhgAnHNas
 
 форум: https://yougame.biz/threads/342491/
 
-telegram: @dota2pasta_bot
-
 !!!WITHOUT humanizer and bypass VAC!!!
-
 !!!БЕЗ обхода античита и корректировки камеры!!!
 
 Функционал:
@@ -21,41 +18,27 @@ telegram: @dota2pasta_bot
 
 видео пример как создать свой сценарий: https://youtu.be/Y5Di6EUOpas
 
-1) примеры сценариев в папке: "\d2p280224\source\heros\clinkz\Standart.json"
-
+1) примеры сценариев в папке: "\source\heros\"
 2) сценарии требуют, чтобы враг был под курсором
 
 Инструкция по созданию сценариев:
 
 1) автоматика - Сценарии - Настройка сценариев
-
 2) выбрать героя
-
 3) ввести имя нового сценария
-
 4) поставить галку "Активный"
-
 5) выбрать горячую клавишу
-
 6) нажать кнопку "добавить действие"
-
 7) ОБЯЗАТЕЛЬНО заполнить все поля: cast, item or ability
 
 enemy целью будет враг
-
 local hero целью будет ваш герой для предметов или способностей, которые требуют указания цели, например плащ невидимка
-
 no target - целью будет ваш герой для предметов или способностей, которые НЕ требуют указания цели, например бкб
-
 position - целью будет область, сетка или главная способность загадки 
 
 армлет: https://imgur.com/rWCF78N
-
 акс: https://imgur.com/a/v8IBXPt
 
 https://youtu.be/iIa62zmNjaw
 
 dota2 camera zoom patcher dota2pasta
-
-
-
