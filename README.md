@@ -2,9 +2,6 @@
 
 https://mega.nz/file/NOVREb6a#MUVjHo8S1ZRVVN-lh_cjikhdiQu6ndHwPVIhgAnHNas
 
-1) Вернул кнопку рисовать кольцо вокруг героя и радиус джема врага.
-2) Чит отправляет HWID на север чита, хочу узнать количество активных пользователей.
-
 форум: https://yougame.biz/threads/342491/
 
 telegram: @dota2pasta_bot
