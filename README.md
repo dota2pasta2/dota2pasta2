@@ -21,8 +21,6 @@ telegram: @dota2pasta_bot
 
 видео пример как создать свой сценарий: https://youtu.be/Y5Di6EUOpas
 
-dota2 camera zoom patcher dota2pasta ver.1.1.4 BETA
-
 1) примеры сценариев в папке: "\d2p280224\source\heros\clinkz\Standart.json"
 
 2) сценарии требуют, чтобы враг был под курсором
@@ -56,6 +54,8 @@ position - целью будет область, сетка или главна�
 акс: https://imgur.com/a/v8IBXPt
 
 https://youtu.be/iIa62zmNjaw
+
+dota2 camera zoom patcher dota2pasta
 
 
 
