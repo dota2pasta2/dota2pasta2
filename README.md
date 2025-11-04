@@ -1,9 +1,9 @@
-Обновил 18.10.25 
+Обновил 04.11.25 
 
 1) инжектить, когда дота запущена, но поиск игры ещё не начат.
 2) требуется директ икс 11
 
-Скачать: https://mega.nz/file/NOVREb6a#MUVjHo8S1ZRVVN-lh_cjikhdiQu6ndHwPVIhgAnHNas
+Скачать: https://transfiles.ru/p5zw6
 
 Форум: https://yougame.biz/threads/342491/
 
