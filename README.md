@@ -5,7 +5,7 @@
 3) В пути только латиница.
 4) Для ВБЕ в рюкзаке должна быть ветка.
 
-Скачать: https://mega.nz/file/0LdWGCqb#n6yKZK0O9nSFE-5kodBMKSbdpFjB039W9xvc09Pqz5Y
+Скачать (если не качает, тогда включи ВПН): https://mega.nz/file/0LdWGCqb#n6yKZK0O9nSFE-5kodBMKSbdpFjB039W9xvc09Pqz5Y
 
 Форум: https://yougame.biz/threads/342491/
 
