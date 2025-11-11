@@ -1,11 +1,11 @@
-Обновил 04.11.25 
+Обновил 12.11.25 
 
 1) Инжектить, когда дота запущена, но поиск игры ещё не начат.
 2) Требуется директ икс 11.
 3) В пути только латиница.
 4) Для ВБЕ в рюкзаке должна быть ветка.
 
-Скачать (если не качает, тогда включи ВПН): https://mega.nz/file/0LdWGCqb#n6yKZK0O9nSFE-5kodBMKSbdpFjB039W9xvc09Pqz5Y
+Скачать (если не качает, тогда включи ВПН): https://mega.nz/file/gXdiCALb#bCGas-MazKxeayCoKSTtua9Rha8zLAxXlDGX027UFV8
 
 Форум: https://yougame.biz/threads/342491/
 
