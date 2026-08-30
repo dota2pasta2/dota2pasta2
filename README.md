@@ -1,3 +1,5 @@
+СТАТУС: НЕ РАБОТАЕТ
+
 **Обновил 14.01.26;**
 
 **Скачать (если не качает, тогда включи ВПН):** https://mega.nz/file/MbEW3LSA#lq_LBv1YxXKBOTBgzATRk62g5Cmwtviu__j8NEmQQHg
