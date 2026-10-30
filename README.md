@@ -5,7 +5,6 @@
 **Если не качает, тогда включи ВПН**
 
 скачать: https://mega.nz/file/RWkVnKxJ#mTDZvIpK99IqHbLfk6WwG37sUsueB9O74IReGZhgmAI
-вт: https://www.virustotal.com/gui/file...5dd739187634a27852aab712d92fe1566d1?nocache=1
 
 ВБЕ (видит враг) загорается красный круг;
 бара = синий круг
@@ -33,6 +32,7 @@ disable (крик акса салом и тд)
 
 вопросы:
 Андетект? это не екстарнал, на свой страх и риск; на основном акке не рекомендую;
-Дай/продай сурсы? нет
+
+Дай/продай сурсы? нет;
 
 dota2 camera zoom patcher dota2pasta
