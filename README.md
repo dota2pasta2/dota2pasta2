@@ -2,7 +2,8 @@
 
 **Обновил 30.10.26;**
 
-**Если не качает, тогда включи ВПН:**
+**Если не качает, тогда включи ВПН**
+
 скачать: https://mega.nz/file/RWkVnKxJ#mTDZvIpK99IqHbLfk6WwG37sUsueB9O74IReGZhgmAI
 вт: https://www.virustotal.com/gui/file...5dd739187634a27852aab712d92fe1566d1?nocache=1
 
