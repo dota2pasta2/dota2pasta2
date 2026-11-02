@@ -4,7 +4,7 @@
 
 **Если не качает, тогда включи ВПН**
 
-скачать: https://www.mediafire.com/file/rpnlyvj59xueub4/d2p021126.zip/file
+скачать: https://www.mediafire.com/file/wq8w804xjbow821/d2p021126.zip/file
 
 новое:
 1) масштаб для деревьев
