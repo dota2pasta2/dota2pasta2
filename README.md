@@ -1,10 +1,10 @@
 СТАТУС: РАБОТАЕТ
 
-**Обновил 03.11.26;**
+**Обновил 04.11.26;**
 
 **Если не качает, тогда включи ВПН**
 
-скачать: https://www.mediafire.com/file/x6jxw6unoxnjm69/d2p031126.zip/file
+скачать: https://www.mediafire.com/file/ssivf5zg1cedda7/d2p041126.zip/file
 
 новое:
 1) масштаб для деревьев
