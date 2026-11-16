@@ -1,10 +1,10 @@
 СТАТУС: РАБОТАЕТ
 
-**Обновил 04.11.26;**
+**Обновил 16.11.26;** добавил disable для Arcane Blink, Overwhelming Blink и Swift Blink.
 
 **Если не качает, тогда включи ВПН**
 
-скачать: https://www.mediafire.com/file/ssivf5zg1cedda7/d2p041126.zip/file
+скачать: https://www.mediafire.com/file/oocs7q83mwcbvk9/d2p161126.zip/file
 
 1) ВБЕ (видит враг) загорается красный круг;
 2) бара = синий круг
