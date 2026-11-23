@@ -6,7 +6,7 @@
 
 скачать: https://www.mediafire.com/file/hl7jdatgrl4hg89/d2p191126.zip/file
 
-тест мануалмап инжект = длл не видно для VAC: https://www.mediafire.com/file/y3yc5jk4kkgutoz/d2p201126.zip/file
+мм и доджи 23.11.26 скачать: https://www.mediafire.com/file/emvzf358smwopfx/d2p231126.zip/file
 
 1) ВБЕ (видит враг) загорается красный круг;
 2) бара = синий круг
