@@ -6,7 +6,7 @@
 
 скачать: https://www.mediafire.com/file/hl7jdatgrl4hg89/d2p191126.zip/file
 
-мануал мап 24.11.26 скачать: https://www.mediafire.com/file/nzeaeuoqtb3tur4/d2p241126.zip/file
+мануал мап 24.11.26 скачать: https://www.mediafire.com/file/huglskwywvykcuy/d2p241126.zip/file
 
 1) ВБЕ (видит враг) загорается красный круг;
 2) бара = синий круг
